@@ -1,7 +1,17 @@
 # Hitu-s_Portfolio
 
-pie title Pets Adopted in 2026
-    "Dogs" : 45
-    "Cats" : 30
-    "Birds" : 15
-    "Hamsters" : 10
+```mermaid
+pie title Fund distribution 2026
+    "Gold" : 20
+    "Equity" : 50
+    "Crypto" : 5
+    "Debt" : 5
+```
+```mermaid
+pie title Region wise distribution 2026
+    "Latin America" : 45
+    "Europe" : 30
+    "US" : 10
+    "India" : 10
+    "HongKong" : 5
+```
